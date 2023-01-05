@@ -5,7 +5,7 @@ Helper tool to display basic informations from a [osv-scanner](https://github.co
 ## Instalation
 
 ```sh
-go install github.com/kahlys/osv-viewer@latest
+go install github.com/kahlys/osv-viewer@v1.0.0
 ```
 
 ## Usage
