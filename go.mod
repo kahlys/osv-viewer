@@ -1,4 +1,4 @@
-module github.com/kahlys/osvview
+module github.com/kahlys/osv-viewer
 
 go 1.19
 
